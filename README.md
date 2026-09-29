@@ -4,6 +4,10 @@ An AI-powered document analysis application that allows users to upload PDF docu
 
 The project combines semantic retrieval using sentence embeddings, a local Large Language Model (LLM), and deterministic Python analysis to provide grounded answers while reducing the risk of incorrect numerical reasoning.
 
+## Demo
+
+![AI Document Analyst application demo](screenshots/app-demo.png)
+
 ## Features
 
 - Upload and analyse PDF documents through a Streamlit interface
